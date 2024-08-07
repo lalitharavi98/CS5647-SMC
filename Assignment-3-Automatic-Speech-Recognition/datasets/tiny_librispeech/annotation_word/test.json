@@ -1,0 +1,52 @@
+{
+    "61-70970-0040": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0040.flac",
+        "length": 4.165,
+        "words": "THEY REGAINED THEIR APARTMENT APPARENTLY WITHOUT DISTURBING THE HOUSEHOLD OF GAMEWELL"
+    },
+    "61-70970-0017": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0017.flac",
+        "length": 2.55,
+        "words": "REST AND BE STILL UNTIL I WARN YOU"
+    },
+    "61-70970-0001": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0001.flac",
+        "length": 6.155,
+        "words": "THERE BEFELL AN ANXIOUS INTERVIEW MISTRESS FITZOOTH ARGUING FOR AND AGAINST THE SQUIRE'S PROJECT IN A BREATH"
+    },
+    "61-70970-0021": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0021.flac",
+        "length": 5.405,
+        "words": "THEY THEN RENEWED THEIR JOURNEY AND UNDER THE BETTER LIGHT MADE A SAFE CROSSING OF THE STABLE ROOFS"
+    },
+    "61-70970-0037": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0037.flac",
+        "length": 5.98,
+        "words": "HIS TONES RANG PLEASANTLY ON WARRENTON'S EARS AND FORTHWITH A GOOD FELLOWSHIP WAS HERALDED BETWEEN THEM"
+    },
+    "61-70970-0036": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0036.flac",
+        "length": 6.785,
+        "words": "ROBIN FITZOOTH SAW THAT HIS DOUBTS OF WARRENTON HAD BEEN UNFAIR AND HE BECAME ASHAMED OF HIMSELF FOR HARBORING THEM"
+    },
+    "61-70970-0020": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0020.flac",
+        "length": 5.025,
+        "words": "WILL WHISPERED ROBIN OPENING HIS DOOR AS HE SPOKE ARE YOU READY"
+    },
+    "61-70970-0000": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0000.flac",
+        "length": 6.075,
+        "words": "YOUNG FITZOOTH HAD BEEN COMMANDED TO HIS MOTHER'S CHAMBER SO SOON AS HE HAD COME OUT FROM HIS CONVERSE WITH THE SQUIRE"
+    },
+    "61-70970-0016": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0016.flac",
+        "length": 4.37,
+        "words": "WE WILL GO OUT TOGETHER TO THE BOWER THERE IS A WAY DOWN TO THE COURT FROM MY WINDOW"
+    },
+    "61-70970-0027": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0027.flac",
+        "length": 5.08,
+        "words": "ROBIN CAREFULLY DESCENDED THE LADDER AND FOUND HIMSELF SOON UPON FIRM ROCKY GROUND"
+    }
+}
